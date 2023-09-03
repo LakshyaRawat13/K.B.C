@@ -1,9 +1,11 @@
-questions = [
-    [
-        "who are the five members of un committe  ?", "china , israel , russia , the united states and united kingdom", "China, France, Russia, Netherland, and the United States.", "China, France, russia, canada, and the United States.",
-        "China,france  , Russia, the United Kingdom, and the United States.", "None", 4
-    ],
-    [
+
+
+
+
+
+   
+
+questions =   [
         "when was crips mission held in terms of years ?", "1943", "1944", "1946",
         "1942", "None", 4
 
